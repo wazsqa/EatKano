@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+＃杀易怀周
 
 _🦌 网页小游戏 🥛_
 
